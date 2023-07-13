@@ -1,0 +1,8 @@
+E:\C#\Exercises\Even or odd\Even or odd\bin\Debug\Even or odd.exe.config
+E:\C#\Exercises\Even or odd\Even or odd\bin\Debug\Even or odd.exe
+E:\C#\Exercises\Even or odd\Even or odd\bin\Debug\Even or odd.pdb
+E:\C#\Exercises\Even or odd\Even or odd\obj\Debug\Even or odd.csproj.AssemblyReference.cache
+E:\C#\Exercises\Even or odd\Even or odd\obj\Debug\Even or odd.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\Even or odd\Even or odd\obj\Debug\Even or odd.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\Even or odd\Even or odd\obj\Debug\Even or odd.exe
+E:\C#\Exercises\Even or odd\Even or odd\obj\Debug\Even or odd.pdb
